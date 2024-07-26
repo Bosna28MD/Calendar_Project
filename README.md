@@ -4,7 +4,7 @@
 
 I created a simple project **Calendar** in C++ which as input takes date of the start and date of the end and print the Calendar in terminal.
 <p>In date you insert day,month and year for start date and final date. </p>
-<p>The output will be a calendar with name of the days up for every month and number-day specifically for every day-name </p>
+<p>The output will be a calendar with name of the days above every moth and number-day specifically for every day-name </p>
 
 **Date start of the Calendar could not be set lower than 2022 Year** 
 
