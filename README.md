@@ -12,7 +12,7 @@ I created a simple project **Calendar** in C++ which as input takes date of the 
 - C++ compiler ( g++)
 - Terminal or command prompt
 
-### Installation and Running
+## Installation and Running
 1. Clone the repository:
 ``` git clone <GitHub-Repository Link> ```
 2. Navigate to the project directory
