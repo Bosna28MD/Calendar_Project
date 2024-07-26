@@ -21,3 +21,6 @@ I created a simple project **Calendar** in C++ which as input takes date of the 
 ``` g++ -o calendar main.cpp ```
 4. Run the compiled program
 ``` ./calendar ```
+
+
+![Calendar_photo](https://github.com/user-attachments/assets/e537efe6-0768-4974-965c-298eebcb5466)
